@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Submit Complaint</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+<div class="container mt-5">
+    <div class="card mx-auto" style="max-width:500px;">
+        <div class="card-body">
+            <h3 class="text-center mb-3">Submit Grievance</h3>
+
+          <form action="php/submit_complaint.php" method="post">
+
+    <input type="email" name="email" class="form-control mb-3"
+           placeholder="Your Email" required>
+
+    <select name="category" class="form-control mb-3" required>
+        <option value="">Select Category</option>
+        <option value="Hostel">Hostel</option>
+        <option value="Mess">Mess</option>
+        <option value="Department">Department</option>
+        <option value="Library">Library</option>
+        <option value="Infrastructure">Infrastructure</option>
+    </select>
+
+    <textarea name="description" class="form-control mb-3"
+              rows="4" placeholder="Describe your issue" required></textarea>
+
+    <button class="btn btn-dark w-100">Submit Complaint</button>
+</form>
+
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
