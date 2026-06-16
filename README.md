@@ -77,7 +77,7 @@ track_status.html
 ### Clone Repository
 
 ```bash
-git clone https://github.com/adityavijaymohanpandey-cloud/xampp-mysql-project.git
+git clone https://github.com/adityavijaymohanpandey-cloud/ECHO-campus-grievance-management-system.git
 ```
 
 ### Move to XAMPP
@@ -106,13 +106,17 @@ campus_grievance
 
 ### Launch
 
-Open:
+Open your browser and navigate to:
 
 ```text
-http://localhost/xampp-mysql-project
+http://localhost/<project-folder-name>
 ```
 
----
+Example:
+
+```text
+http://localhost/ECHO-campus-grievance-management-system
+```
 
 ## Screenshots
 
