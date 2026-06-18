@@ -126,35 +126,35 @@ http://localhost/ECHO-campus-grievance-management-system
 
 ### Login Page
 
-![Login Page](Login_Page.png)
+![](Screenshots/Login_Page.png)
 
 ### Registration Page
 
-![Registration](Register_Page.png)
+![](Screenshots/Register_Page.png)
 
 ### User Dashboard
 
-![Dashboard](User_Dashboard.png)
+![](Screenshots/User_Dashboard.png)
 
 ### Submit Complaint
 
-![Submit Complaint](Submit_Complaint.png)
+![](Screenshots/Submit_Complaint.png)
 
 ### Track Status
 
-![Track Status](Track_Status.png)
+![](Screenshots/Track_Status.png)
 
 ### Backend
 
-![Backend](phpMyAdmin.png)
+![](Screenshots/phpMyAdmin.png)
 
-### XAMPP Dashboard
+### Server
 
-![XAMPP Dashboard](XAMPP_Dashboard.png)
+![](Screenshots/XAMPP_Dashboard.png)
 
-### Admin Dashboard
+### Admin Dashboard (make sure to change the role from user to admin in the database to access Admin privilege)
 
-![Admin Dashboard](Admin_Dashboard.png)
+![](Screenshots/Admin_Dashboard.png)
 
 ## Security Features
 
