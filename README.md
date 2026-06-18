@@ -122,7 +122,7 @@ http://localhost/ECHO-campus-grievance-management-system
 
 ### Home Page
 
-![Home Page](Home_Page.png)
+![Home Page](Screenshots/Home_Page.png)
 
 ### Login Page
 
