@@ -6,6 +6,14 @@ The system enables students to register, submit grievances, and track complaint 
 
 ---
 
+## Successor Project
+
+This project represents the original implementation of the Campus Grievance Reporting System.
+
+The enhanced Version 2 (ECHO Campus Grievance Management System) is available here:
+
+[https://github.com/<your-username>/ECHO-campus-grievance-management-system](https://github.com/Jackden404/campus-grievance.git)
+
 ## Features
 
 ### Student Portal
